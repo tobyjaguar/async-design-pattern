@@ -1,0 +1,42 @@
+[
+    {
+        "worker": 1,
+        "wait": 500
+    },
+    {
+        "worker": 2,
+        "wait": 700
+    },
+    {
+        "worker": 3,
+        "wait": 2000
+    },
+    {
+        "worker": 4,
+        "wait": 1000
+    },
+    {
+        "worker": 5,
+        "wait": 50
+    },
+    {
+        "worker": 6,
+        "wait": 500
+    },
+    {
+        "worker": 7,
+        "wait": 800
+    },
+    {
+        "worker": 8,
+        "wait": 1000
+    },
+    {
+        "worker": 9,
+        "wait": 500
+    },
+    {
+        "worker": 10,
+        "wait": 50
+    }
+]

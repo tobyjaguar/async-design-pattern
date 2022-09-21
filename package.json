@@ -1,0 +1,19 @@
+{
+  "name": "async-design-pattern",
+  "version": "1.0.0",
+  "description": "An investigation into async design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyjaguar/async-design-pattern.git"
+  },
+  "author": "tobyjaguar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tobyjaguar/async-design-pattern/issues"
+  },
+  "homepage": "https://github.com/tobyjaguar/async-design-pattern#readme"
+}
